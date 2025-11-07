@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "granola-mcp": {
+      "command": "python3", 
+      "args": ["/Users/[username]/granola-claude-mcp/granola_mcp_server.py"],
+      "env": {
+        "GRANOLA_CACHE_PATH": "/Users/[username]/Library/Application Support/Granola/cache-v3.json"
+      }
+    }
+  }
+}
